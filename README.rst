@@ -1,8 +1,9 @@
 Jansson README
 ==============
 
-Jansson_ is a C library for encoding, decoding and manipulating JSON
-data. Its main features and design principles are:
+Jansson-Bencode is a C library for encoding, decoding and manipulating 
+JSON and Bencoded data. Its based on Jansson_. The main features and 
+design principles are:
 
 - Simple and intuitive API and data model
 
@@ -14,7 +15,7 @@ data. Its main features and design principles are:
 
 - Extensive test suite
 
-Jansson is licensed under the `MIT license`_; see LICENSE in the
+Jansson-Bencode is licensed under the `MIT license`_; see LICENSE in the
 source distribution for details.
 
 
@@ -42,7 +43,7 @@ autoreconf::
 Documentation
 -------------
 
-Prebuilt HTML documentation is available at
+Prebuilt HTML documentation is available (for Jansson) at
 http://www.digip.org/jansson/doc/.
 
 The documentation source is in the ``doc/`` subdirectory. To generate
